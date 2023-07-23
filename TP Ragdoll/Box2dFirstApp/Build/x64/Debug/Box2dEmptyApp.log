@@ -1,0 +1,131 @@
+﻿  Box2dEmptyApp.cpp
+  Game.cpp
+C:\Users\Alejandro Rausch\Desktop\TP Ragdoll\Box2dFirstApp\Src\Game.cpp(25,37): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Alejandro Rausch\Desktop\TP Ragdoll\Box2dFirstApp\Src\Game.cpp(87,73): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Alejandro Rausch\Desktop\TP Ragdoll\Box2dFirstApp\Src\Game.cpp(87,44): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Alejandro Rausch\Desktop\TP Ragdoll\Box2dFirstApp\Src\Game.cpp(88,79): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Alejandro Rausch\Desktop\TP Ragdoll\Box2dFirstApp\Src\Game.cpp(88,48): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Alejandro Rausch\Desktop\TP Ragdoll\Box2dFirstApp\Src\Game.cpp(89,76): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Alejandro Rausch\Desktop\TP Ragdoll\Box2dFirstApp\Src\Game.cpp(89,46): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Alejandro Rausch\Desktop\TP Ragdoll\Box2dFirstApp\Src\Game.cpp(90,79): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Alejandro Rausch\Desktop\TP Ragdoll\Box2dFirstApp\Src\Game.cpp(90,48): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Alejandro Rausch\Desktop\TP Ragdoll\Box2dFirstApp\Src\Game.cpp(91,79): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Alejandro Rausch\Desktop\TP Ragdoll\Box2dFirstApp\Src\Game.cpp(91,48): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Alejandro Rausch\Desktop\TP Ragdoll\Box2dFirstApp\Src\Game.cpp(92,81): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Alejandro Rausch\Desktop\TP Ragdoll\Box2dFirstApp\Src\Game.cpp(92,50): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Alejandro Rausch\Desktop\TP Ragdoll\Box2dFirstApp\Src\Game.cpp(93,81): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Alejandro Rausch\Desktop\TP Ragdoll\Box2dFirstApp\Src\Game.cpp(93,50): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Alejandro Rausch\Desktop\TP Ragdoll\Box2dFirstApp\Src\Game.cpp(94,86): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Alejandro Rausch\Desktop\TP Ragdoll\Box2dFirstApp\Src\Game.cpp(94,55): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Alejandro Rausch\Desktop\TP Ragdoll\Box2dFirstApp\Src\Game.cpp(95,81): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Alejandro Rausch\Desktop\TP Ragdoll\Box2dFirstApp\Src\Game.cpp(95,50): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Alejandro Rausch\Desktop\TP Ragdoll\Box2dFirstApp\Src\Game.cpp(168,8): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Alejandro Rausch\Desktop\TP Ragdoll\Box2dFirstApp\Src\Game.cpp(280,18): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Alejandro Rausch\Desktop\TP Ragdoll\Box2dFirstApp\Src\Game.cpp(342,22): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Alejandro Rausch\Desktop\TP Ragdoll\Box2dFirstApp\Src\Game.cpp(368,67): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Alejandro Rausch\Desktop\TP Ragdoll\Box2dFirstApp\Src\Game.cpp(368,41): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Alejandro Rausch\Desktop\TP Ragdoll\Box2dFirstApp\Src\Game.cpp(369,66): warning C4244: 'argumento': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\Alejandro Rausch\Desktop\TP Ragdoll\Box2dFirstApp\Src\Game.cpp(369,40): warning C4244: 'argumento': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\Alejandro Rausch\Desktop\TP Ragdoll\Box2dFirstApp\Src\Game.cpp(453,17): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Alejandro Rausch\Desktop\TP Ragdoll\Box2dFirstApp\Src\Game.cpp(455,30): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Alejandro Rausch\Desktop\TP Ragdoll\Box2dFirstApp\Src\Game.cpp(455,23): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  LevelOne.cpp
+  LevelTwo.cpp
+  Ragdoll.cpp
+C:\Users\Alejandro Rausch\Desktop\TP Ragdoll\Box2dFirstApp\Src\Ragdoll.cpp(33,116): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Alejandro Rausch\Desktop\TP Ragdoll\Box2dFirstApp\Src\Ragdoll.cpp(53,96): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Alejandro Rausch\Desktop\TP Ragdoll\Box2dFirstApp\Src\Ragdoll.cpp(53,59): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Alejandro Rausch\Desktop\TP Ragdoll\Box2dFirstApp\Src\Ragdoll.cpp(54,91): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Alejandro Rausch\Desktop\TP Ragdoll\Box2dFirstApp\Src\Ragdoll.cpp(54,57): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Alejandro Rausch\Desktop\TP Ragdoll\Box2dFirstApp\Src\Ragdoll.cpp(64,91): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Alejandro Rausch\Desktop\TP Ragdoll\Box2dFirstApp\Src\Ragdoll.cpp(64,53): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Alejandro Rausch\Desktop\TP Ragdoll\Box2dFirstApp\Src\Ragdoll.cpp(65,84): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Alejandro Rausch\Desktop\TP Ragdoll\Box2dFirstApp\Src\Ragdoll.cpp(65,50): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Alejandro Rausch\Desktop\TP Ragdoll\Box2dFirstApp\Src\Ragdoll.cpp(75,90): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Alejandro Rausch\Desktop\TP Ragdoll\Box2dFirstApp\Src\Ragdoll.cpp(76,84): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Alejandro Rausch\Desktop\TP Ragdoll\Box2dFirstApp\Src\Ragdoll.cpp(76,50): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Alejandro Rausch\Desktop\TP Ragdoll\Box2dFirstApp\Src\Ragdoll.cpp(87,85): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Alejandro Rausch\Desktop\TP Ragdoll\Box2dFirstApp\Src\Ragdoll.cpp(88,84): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Alejandro Rausch\Desktop\TP Ragdoll\Box2dFirstApp\Src\Ragdoll.cpp(88,50): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  Generando código...
+  Box2dEmptyApp.vcxproj -> C:\Users\Alejandro Rausch\Desktop\TP Ragdoll\Box2dFirstApp\Bin\Debug\Box2dEmptyApp.exe
